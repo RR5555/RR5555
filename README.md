@@ -1,4 +1,4 @@
-# Romain Renard · Machine-Learning / Software Engineer
+### Romain Renard · Machine-Learning / Software Engineer
 
 ---
 
